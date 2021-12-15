@@ -1,1 +1,2 @@
 hi this my first git example
+hi this is my second git example
